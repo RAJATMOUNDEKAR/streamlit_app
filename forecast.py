@@ -1,6 +1,6 @@
-pip install matplotlib
-pip install statsmodels
-pip install scikit-learn
+!pip install matplotlib
+!pip install statsmodels
+!pip install scikit-learn
 
 
 import streamlit as st
